@@ -1,6 +1,6 @@
 <?php
 //Ini adalah komentar 1
-//dan Ini komentar 2
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
