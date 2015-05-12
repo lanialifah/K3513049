@@ -1,0 +1,5 @@
+1. Buat database baru di phpmyadmin misal crud
+2. Import file crud.sql
+3. Setting database pada application - config - database.php
+4. Rubah username, password dan database sesuai dengan phpmyadmin anda
+5. Silakan mencoba sesuai dengan nama folder htdocs anada misal localhost/tugasfoss
